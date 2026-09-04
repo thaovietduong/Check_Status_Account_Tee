@@ -1,0 +1,15 @@
+# Kết quả chạy thật + dữ liệu nhạy cảm — không commit lên git
+/results/
+proxies.txt
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

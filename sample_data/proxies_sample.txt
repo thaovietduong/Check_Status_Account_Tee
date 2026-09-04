@@ -1,0 +1,7 @@
+# Đây chỉ là FILE MẪU để bạn biết định dạng, không phải proxy thật.
+# Hỗ trợ 2 định dạng, mỗi dòng 1 proxy:
+#   ip:port
+#   ip:port:username:password
+#
+# 1.2.3.4:8080
+# 1.2.3.4:8080:myuser:mypass
